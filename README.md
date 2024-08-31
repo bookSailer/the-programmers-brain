@@ -19,7 +19,7 @@
 
 ### 사전 읽어보시는 글
 
-1. 글은 해당 chapter 폴더의 README파일의 본인 이름 옆에 link해주시면됩니다.
+1. 글은 해당 Part 폴더의 README파일의 본인 이름 옆에 link해주시면됩니다.
 2. 블로그에서 작성 후 글의 링크를 달아주시면 됩니다.
 
 [이전 스터디 자료](https://github.com/bookSailer/functionalProgramming)
