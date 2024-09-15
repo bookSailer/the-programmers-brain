@@ -7,6 +7,6 @@
 - 김도영 - [코드를 해석하고 처리하는 인지의 비밀[프로그래머의 뇌]](https://medium.com/@Dodo3/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%87%8C-4c55b3286bb7)
 - 문수정 - []()
 - 안수빈 - []()
-- 장세영 - []()
+- 장세영 - [[프로그래머의 뇌] Part1. 코드 더 잘 읽기](https://velog.io/@0x45c/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%87%8C-Part1.-%EC%BD%94%EB%93%9C-%EB%8D%94-%EC%9E%98-%EC%9D%BD%EA%B8%B0)
 - 이정아 - []()
 - 김지나 - [Part 1. 코드 더 잘 읽기](https://zzinao.notion.site/Part-1-f1b46b5f13b04b87af4da5a07388a8b4?pvs=4)
