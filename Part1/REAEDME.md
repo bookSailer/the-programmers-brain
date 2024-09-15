@@ -9,3 +9,4 @@
 - 안수빈 - []()
 - 장세영 - []()
 - 이정아 - []()
+- 김지나 - [Part 1. 코드 더 잘 읽기](https://zzinao.notion.site/Part-1-f1b46b5f13b04b87af4da5a07388a8b4?pvs=4)
