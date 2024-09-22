@@ -8,5 +8,5 @@
 - 문수정 - []()
 - 안수빈 - []()
 - 장세영 - []()
-- 이정아 - []()
+- 이정아 - [Part1. 코드 더 잘 읽기](https://sulfuric-banjo-5a8.notion.site/Part1-102ca0c5c634808c932ccbcbd4185b00?pvs=4)
 - 김지나 - [Part 1. 코드 더 잘 읽기](https://zzinao.notion.site/Part-1-f1b46b5f13b04b87af4da5a07388a8b4?pvs=4)
