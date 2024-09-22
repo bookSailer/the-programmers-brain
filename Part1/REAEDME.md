@@ -8,5 +8,5 @@
 - 문수정 - []()
 - 안수빈 - [[프로그래머의 뇌] 코드 더 잘읽기, 개발자의 교양에 대하여](https://velog.io/@jejupalette/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%87%8C-%EC%BD%94%EB%93%9C-%EB%8D%94-%EC%9E%98%EC%9D%BD%EA%B8%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EA%B5%90%EC%96%91%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 - 장세영 - []()
-- 이정아 - []()
+- 이정아 - [Part1. 코드 더 잘 읽기](https://sulfuric-banjo-5a8.notion.site/Part1-102ca0c5c634808c932ccbcbd4185b00?pvs=4)
 - 김지나 - [Part 1. 코드 더 잘 읽기](https://zzinao.notion.site/Part-1-f1b46b5f13b04b87af4da5a07388a8b4?pvs=4)
