@@ -9,4 +9,4 @@
 - 안수빈 - []()
 - 장세영 - []()
 - 이정아 - []()
-- 김지나 - []()
+- 김지나 - [좋은 코드 작성하기](https://zzinao.notion.site/Part-3-10aeefa58ec880a69473f91adbcd0e94?pvs=4)
