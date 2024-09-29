@@ -1,6 +1,6 @@
 # Part.3 좋은 코드 작성하기
 
-- 최기환 - []()
+- 최기환 - [좋은 코드 작성하기](https://www.blog.gihwan-dev.com/posts/book-study-programmers-brain-part-3/)
 - 강수영 - []()
 - 김희경 - []()
 - 나원지 - []()
