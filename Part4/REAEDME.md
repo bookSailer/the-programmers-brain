@@ -9,4 +9,4 @@
 - 안수빈 - []()
 - 장세영 - []()
 - 이정아 - []()
-- 김지나 - []()
+- 김지나 - [코딩에서의 협업](https://zzinao.notion.site/Part-4-116eefa58ec8800baface6d56de708f8?pvs=4)
