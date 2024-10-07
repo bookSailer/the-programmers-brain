@@ -8,5 +8,5 @@
 - 문수정 - []()
 - 안수빈 - []()
 - 장세영 - []()
-- 이정아 - []()
+- 이정아 - [Part4. 코딩에서의 협업](https://sulfuric-banjo-5a8.notion.site/Part4-117ca0c5c63480b8acf6c0f7478042d0?pvs=4)
 - 김지나 - [코딩에서의 협업](https://zzinao.notion.site/Part-4-116eefa58ec8800baface6d56de708f8?pvs=4)
